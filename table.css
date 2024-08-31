@@ -1,0 +1,16 @@
+table{
+    background-color: black;
+    color: white;
+    padding: 2%;
+    height: 250px;
+    width:300px;
+}
+table,th,td{
+    border: 2px solid blue;
+    padding: 12px;
+
+}
+
+#abc{
+    background-color: red;
+}
